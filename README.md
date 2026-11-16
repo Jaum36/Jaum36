@@ -215,8 +215,6 @@ Meu objetivo é avançar na construção e integração de aplicações que util
 
 <div align="center">
 
-<img height="170" src="./profile/stats.svg" alt="Estatísticas do GitHub"/>
-
 <img height="170" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas"/>
 
 </div>
