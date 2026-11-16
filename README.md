@@ -215,9 +215,9 @@ Meu objetivo é avançar na construção e integração de aplicações que util
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jaum36&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
+<img height="170" src="./profile/stats.svg" alt="Estatísticas do GitHub"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaum36&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens do GitHub"/>
+<img height="170" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas"/>
 
 </div>
 
