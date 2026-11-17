@@ -112,18 +112,18 @@ A proposta envolve uma pré-entrevista opcional, com registro de respostas e org
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Análise Exploratória de Dados
+### 🤖 Comparação de AutoML: FLAML × AutoGluon
 
-**Data Analysis · Python**
+**Machine Learning · Python**
 
-Estudo de dados públicos sobre os preços de GLP no Brasil.
+Classificação supervisionada em um dataset público de 569 observações. Comparei FLAML e AutoGluon, incluindo preparação dos dados, acurácia, matriz de confusão e importância dos atributos.
 
-O notebook documenta o tratamento dos dados, a análise estatística e a construção de visualizações para investigar a distribuição dos preços.
+**Resultados nesta divisão de teste:** 98,25% (FLAML) e 99,12% (AutoGluon), em 114 exemplos. Estudo acadêmico; não é ferramenta clínica.
 
-**Tecnologias:** Python, pandas e Matplotlib.
+**Tecnologias:** Python, FLAML, AutoGluon, scikit-learn e Jupyter.
 
-<a href="https://github.com/Jaum36/exploracao-dados-joao-victor-mattos-lopes">
-  <img src="https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório de análise de dados"/>
+<a href="https://github.com/Jaum36/automl-classificacao-cancer">
+  <img src="https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório de AutoML"/>
 </a>
 
 </td>
